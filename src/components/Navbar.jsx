@@ -4,7 +4,7 @@ import ButtonGithubLogin from './ui/ButtonGithubLogin.jsx';
 
 const Navbar = () => {
   return (
-    <nav className="flex justify-between items-center h-[80px] px-9 pr-4 md:pr-5 w-[95.5%] rounded-lg bg-white">
+    <nav className="flex justify-between items-center h-[80px] px-9 pr-4 md:pr-5 w-full rounded-lg bg-white">
       <div className="flex gap-6 items-center">
         <img className="w-36" src={Logo} alt="logo" />
         <ul className="flex gap-3 font-medium text-base tracking-tighter hidden md:flex">

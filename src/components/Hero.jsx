@@ -11,8 +11,8 @@ const Hero = () => {
   ];
   
   return (
-    <div className="flex gap-5 md:px-9 md:px-20 pb-3 justify-between">
-    <div className="md:w-1/2 flex flex-col gap-3 px-8 md:px-0 md:pt-6">
+    <div className="flex gap-5 md:px-5 pb-3 justify-between">
+    <div className="md:w-1/2 flex flex-col gap-3 px-4 md:px-0 md:pt-6">
       <h1 className="text-[1.6rem] md:text-4xl font-[600] md:leading-[2.8rem] mb-2">Improve your HTML and CSS skills by practicing on real design templates.</h1>
       <p className="text-base leading-6">With Codewell, you can browse high quality Figma templates that you can use to sharpen your HTML and CSS skills.</p>
       <ul className="flex flex-col gap-5 justify-center mt-2">
